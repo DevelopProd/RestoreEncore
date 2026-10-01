@@ -80,7 +80,7 @@ text
 
 ---
 
-## 📸 Скриншот
+## 📸 Скриншоты
 
 ![Скриншот Восстановления](docs/RestoreEncore1.png)
 ![Скриншот Дубликатов MP3](docs/RestoreEncore2.png)
