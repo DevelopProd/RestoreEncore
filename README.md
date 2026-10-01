@@ -82,8 +82,8 @@ text
 
 ## 📸 Скриншоты
 
-![Скриншот Восстановления](docs/RestoreEncore1.png)
-![Скриншот Дубликатов MP3](docs/RestoreEncore2.png)
+![Скриншот Восстановления](docs/RestoreEncore2.png)
+![Скриншот Дубликатов MP3](docs/RestoreEncore1.png)
 
 ---
 
