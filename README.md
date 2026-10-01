@@ -100,7 +100,7 @@ text
 - **Windows 10/11**
 - **Python 3.10+**
 
-```bash
+
 git clone https://github.com/твой-ник/RestoreEncore.git
 cd RestoreEncore
 
